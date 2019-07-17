@@ -7,17 +7,23 @@ body{
     color:antiquewhite; 
 }
 
-h1,h4{
-    color: yellow
+h1{
+    color: green;
+    text-align:center;
 }
-h2{color:green}
+h2{color:yellow}
 
 h3{color:red
+}
+h4{color:orange
 }
 .links{color:cyan}
 
                 
 
 ul{ display:table-row;
+}
+.centre{text-align: center
+
 }
 /* adding background picture */
