@@ -3,6 +3,7 @@ body{
 
     font-family: 'DM Serif Text', serif;
     background-image: url("spacebg.png");   
+    background-blend-mode: hard-light;
     color:antiquewhite; 
 }
 
@@ -13,10 +14,10 @@ h2{color:green}
 
 h3{color:red
 }
+.links{border-inline-start-color: cyan}
+                                
+                
 
-.links {
-    color: white;
-}
 ul{ display:table-row;
 }
 /* adding background picture */
